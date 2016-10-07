@@ -1,11 +1,12 @@
 {
   "name": "darroughw",
   "version": "0.1.0",
-  "description": "An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Coverage), Karma, Protractor, Jasmine, Istanbul, TypeScript, and Webpack by AngularClass",
+  "description": "Angular 2 (Router, Http, Forms, Services, Tests, E2E, Coverage), Karma, Protractor, Jasmine, Istanbul, TypeScript, and Webpack by AngularClass",
   "keywords": [
     "angular2",
     "webpack",
-    "typescript"
+    "typescript",
+    "heroku"
   ],
   "author": "Patrick Stapleton <patrick@angularclass.com>",
   "homepage": "https://github.com/angularclass/angular2-webpack-starter",
@@ -133,10 +134,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angularclass/angular2-webpack-starter.git"
+    "url": "git+https://github.com/darroughw/dw.git"
   },
   "bugs": {
-    "url": "https://github.com/angularclass/angular2-webpack-starter/issues"
+    "url": "https://github.com/darroughw/dw/issues"
   },
   "engines": {
     "node": ">= 4.2.1",
